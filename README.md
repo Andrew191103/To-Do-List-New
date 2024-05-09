@@ -1,3 +1,3 @@
 # API Endpoint Design
 
-![API Endpoint](API Endpoint.png)
+![API Endpoint](API_Endpoint.png)
